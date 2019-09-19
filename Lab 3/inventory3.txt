@@ -1,0 +1,5 @@
+Mountain Bike,   Model 3c07,  $500, $1200,   blue,   5, 15-77, Advanced, 15
+Road Bike,   Model 452X,  $600,    $2000,   black,   -3, 5-13, 20, 10.5
+Mountain Bike,   Model 472d,  $300,    $800,    green,   -4, 20-56, Beginner, 19 
+Mountain Bike,   Model 472d,  $300,    $800,    red,   6, 12-19, Beginner, 19
+City Bike,   Model C123,  $400,    $1000,   orange, 7, 15-85, 2, Dutch

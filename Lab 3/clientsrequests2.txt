@@ -1,0 +1,5 @@
+City Bike,blue, 2
+Mountn Bike, Model 472d, green, 1
+Mo Bike, Model 47252d, red, 2
+Mountain Bike, Model 33c07, blue, 5
+City Bike, Model, D456,3
